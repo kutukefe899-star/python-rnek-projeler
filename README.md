@@ -1,1 +1,1 @@
-# python-rnek-projeler
+# python-örnek-projeler
