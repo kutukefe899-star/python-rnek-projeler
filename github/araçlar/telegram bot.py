@@ -1,7 +1,7 @@
 import requests
 
-TOKEN = "8042571610:AAFu3CbtbfHm4h0S1LWIs46guy0ILdv8n-k"  # tırnak var
-CHAT_ID = "8560293782"   # tırnak var
+TOKEN = "senin api keyin"  # tırnak var
+CHAT_ID = "senin telegram chat idin"   # tırnak var
 
 def telegram_gonder(mesaj):
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
